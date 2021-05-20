@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm SANGEETHA910</h1>
 <h3 align="center">Very much excited and keen in Computer Science and web developing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeetha910&label=Profile%20views&color=0e75b6&style=flat" alt="sangeetha910" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeetha910" alt="sangeetha910" /></a> </p>
-
-- 🌱 I’m currently learning **Front end development.**
+- 🌱 I’m currently learning **B.E. Computer Science and Engineering**
 
 - 📝 I regularly write articles on [https://teachingyoutechnical.blogspot.com/](https://teachingyoutechnical.blogspot.com/)
 
@@ -14,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sangeetha-s-7293b1200/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjtrssgy%2bt7wyfgun0vccvq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sangeetha-s-7293b1200/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjtrssgy%2bt7wyfgun0vccvq%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/sanshivu_.san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sanshivu_.san" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sangeetha-s-7293b1200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sangeetha-s-7293b1200/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sangeetha910" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sangeetha910" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeetha910&show_icons=true&locale=en" alt="sangeetha910" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeetha910&" alt="sangeetha910" /></p>
